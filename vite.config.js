@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/admin/',
+  base: '/FE_KAMANG/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets'
