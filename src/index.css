@@ -1,0 +1,6 @@
+input[type="date"]::-webkit-calendar-picker-indicator {
+    opacity: 1;
+    display: block;
+    cursor: pointer; /* Menambahkan kursor pointer agar lebih interaktif */
+    /* Mungkin perlu penyesuaian posisi jika masih tertutup */
+}
